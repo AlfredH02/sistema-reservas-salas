@@ -1,0 +1,11 @@
+[33mcommit dc7c0ba8f27335ce866fbaed6185e6718e59182e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Alfredo <alfredo.vni@outlook.com>
+Date:   Tue Oct 29 15:25:46 2024 -0300
+
+    Configuração Docker com Dockerfile, docker-compose e ajustes no application.properties
+
+[33mcommit 2fd40f99073b6db0293a67ed3e3b4a15dddc2e69[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Alfredo <alfredo.vni@outlook.com>
+Date:   Mon Oct 28 23:03:56 2024 -0300
+
+    Implementação: Entidades, Repositórios, Serviços, Controllers e Padrões de Projeto
